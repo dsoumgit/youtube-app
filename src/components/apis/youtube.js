@@ -9,7 +9,7 @@ import axios from 'axios';
  *  Documentation: 
  *      https://developers.google.com/youtube/v3/docs/search/list
  */
-const KEY = "AIzaSyADpdX5XZCI55HAbzp0LssOWL82Sl9fOVQ";
+const KEY = "xxxxxxxxxxxxxxx";
 
 // make preconfig with default url and parameters 
 export default axios.create({
