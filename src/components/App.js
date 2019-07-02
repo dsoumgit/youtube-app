@@ -59,7 +59,6 @@ class App extends Component {
 
     // callback function to retrieve the selected video from child component 
     onVideoSelect = (video) => {
-
         // update state
         this.setState({
             selectedVideo: video
